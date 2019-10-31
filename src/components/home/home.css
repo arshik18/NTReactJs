@@ -1,0 +1,49 @@
+.col-container {
+    display: flex;
+    width: 100%;
+    margin-top:0.04em;
+   /*  background-color:orange; */
+}
+.side-menu{
+    background-color:rgb(48,47,47);
+}
+.main{
+    background-color:whitesmoke;
+    padding-top:2em;
+    padding-right:2em;
+    padding-left:4em;
+    
+}
+
+
+.col {
+    flex:1;
+
+}
+/* .side-menu-row{
+    background-color:rgb(48,47,47);
+    color:rgb(214, 213, 213);
+    outline:none;
+    padding-left:1em !important;
+    
+}  */
+.row{
+    border-bottom:1px solid rgb(214, 213, 213); 
+    height:45px;
+    padding:3px;
+    padding-left:0px;
+    padding-top:8px;
+}
+/* .side-menu-icon-right{
+    position: absolute;
+    right: 20px;   
+}
+.side-menu-label{
+    font-size: 1.1em;
+   
+}
+.side-menu-icon-left{
+    
+    padding-top:2px;
+    
+} */

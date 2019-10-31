@@ -1,0 +1,41 @@
+.side-menu-row{
+    background-color:rgb(48,47,47);
+    color:rgb(214, 213, 213);
+    outline:none;
+    padding-left:1em !important;
+    
+} 
+.side-sub-menu-row{
+    background-color:rgb(82, 80, 80);
+    color:rgb(214, 213, 213);
+    outline:none;
+    padding-left:1em !important;
+
+}
+.side-sub-sub-menu-row{
+    background-color:rgb(114, 113, 113);
+    color:rgb(214, 213, 213);
+    outline:none;
+    padding-left:1em !important;
+}
+.side-menu-icon-right{
+    position: absolute;
+    right: 20px;   
+}
+.side-menu-label{
+    font-size: 1em;
+   
+}
+.side-sub-menu-label{
+    font-size: 0.95em;
+   
+}
+.side-sub-sub-menu-label{
+    font-size: 0.9em;
+   
+}
+.side-menu-icon-left{
+    
+    padding-top:2px;
+    
+}
